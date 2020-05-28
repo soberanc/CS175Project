@@ -5,6 +5,8 @@ title: Golem Globe
 
 # Golem Globe
 
+Welcome to Golem Globe.
+
 ![](https://www.ics.uci.edu/~wschallo/golemGlobe.png)
 
 ## What is Golem Globe?
